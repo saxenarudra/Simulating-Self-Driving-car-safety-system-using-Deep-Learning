@@ -70,7 +70,7 @@ Simulator outputs code in .CSV formats and all image data is stored locally.
 
 This will generate a file model-<epoch>.h5
   
-  ![alt text](https://github.com/saxenarudra/Simulating-Self-Driving-car-safety-system-using-Deep-Learning/blob/main/TrainAndTest.pngraw=true)
+ ![alt text](https://github.com/saxenarudra/Simulating-Self-Driving-car-safety-system-using-Deep-Learning/blob/main/TrainAndTest.png?raw=true)
 
 ## Running the simulated model
 
