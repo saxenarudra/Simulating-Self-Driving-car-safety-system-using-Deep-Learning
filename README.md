@@ -13,7 +13,7 @@ Input will be camera data from the dataset, and output will be steering angle to
 3) Train and vaidate the model using 80-20 validation set.
 4) Complete a lap on simulator track autonomously.
 
-#Dependencies and Libraries used.
+## Dependencies and Libraries used.
 
 I have used anaconda to generate enviroment with exactly neeeded Dependencies.
 Make sure you have anaconda installed in order to setup the enviroment
