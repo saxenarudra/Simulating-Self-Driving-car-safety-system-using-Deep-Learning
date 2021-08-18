@@ -75,6 +75,8 @@ I have also uploaded pretrained model called model.h5 to run using that enter fo
 ``` python drive.py model.h5  ``` 
 
 This will automatically start driving the vehicle which is in automatic mode in simulator.
+  
+  ![alt text](https://github.com/saxenarudra/Simulating-Self-Driving-car-safety-system-using-Deep-Learning/blob/main/successful%20test.png?raw=true)
 
 ## Author
 [Rudra Saxena](https://github.com/saxenarudra): Myself Rudra Saxena I am Grad Student at Lakehead University.
