@@ -59,6 +59,9 @@ This project is tested on following Minimum Specification Requirements:-
 Run the simulator in training mode and record the runs for 5 iterations and copy recorded data in local directory.
 
 Simulator outputs code in .CSV formats and all image data is stored locally.
+![alt text](https://github.com/saxenarudra/Simulating-Self-Driving-car-safety-system-using-Deep-Learning/blob/main/dataset.jpg?raw=true)
+
+
 
 ## Training model
   Once Simulator is installed just run the binary file and run following command in bash terminal.
@@ -66,6 +69,8 @@ Simulator outputs code in .CSV formats and all image data is stored locally.
 ``` python model.py ``` 
 
 This will generate a file model-<epoch>.h5
+  
+  ![alt text](https://github.com/saxenarudra/Simulating-Self-Driving-car-safety-system-using-Deep-Learning/blob/main/TrainAndTest.pngraw=true)
 
 ## Running the simulated model
 
